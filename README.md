@@ -88,15 +88,10 @@ It is a solution designed to fulfill a university module at the IIE's Varsity Co
 The application's navigation has not successfully run on a physical device as of this version.
 
 
-## License and Authors
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
-Siegan Govender 
-Ronan Farquharson 
-Kishen Naicker 
-Luc Botes
 
 ## References and Code Attributions 
-* Nash Ramckurran - nashramckurran@gmail.com
   
  Mapbox Docs. n.d. Examples. Mapbox. Accessed [18/10/22] : https://docs.mapbox.com/android/legacy/maps/examples/ 
 
