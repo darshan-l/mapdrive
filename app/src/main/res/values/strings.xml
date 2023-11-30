@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapDrive</string>
+    <string name="access_token">sk.eyJ1Ijoia2lzaGVuMjgiLCJhIjoiY2w5ZTA4azhqMjljMTN4bG01czUwcW8wOSJ9.pmZE6A0ZyGbQ0C4tB7wCAQ</string>
+
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality</string>
+    <string name="user_location_permission_not_granted">You did not grant location permissions.</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password_hint">***********************</string>
+    <string name="password">Password</string>
+    <string name="someone_gmail_com">someone@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="enter_your_account">Enter your account</string>
+    <string name="new_here_sign_up">New Here? Sign Up</string>
+    <string name="mapdrive">MapDrive</string>
+    <string name="click_below_to_start_nexploring">Click below to start\nexploring</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="john_doe">John Doe</string>
+    <string name="username">Username</string>
+    <string name="enter_your_details">Enter your details</string>
+</resources>
