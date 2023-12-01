@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "394624547734",
-    "project_id": "mapdrive-1fe4b",
-    "storage_bucket": "mapdrive-1fe4b.appspot.com"
+    "project_number": "300147897812",
+    "project_id": "mapdrive-e316e",
+    "storage_bucket": "mapdrive-e316e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394624547734:android:17ddca00ef94337839fbb7",
+        "mobilesdk_app_id": "1:300147897812:android:3476eed58820b0e3541241",
         "android_client_info": {
           "package_name": "com.example.mapdrive"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "394624547734-7dshu22ectl1d47dhet0hvkp17dnlmac.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBWV5GhfDluGp8g_5l6pvAr8U3ivQ734tY"
+          "current_key": "AIzaSyA-hc522HMHnRCbLXsNDV_PeUbqNSB0_t4"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "394624547734-7dshu22ectl1d47dhet0hvkp17dnlmac.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
